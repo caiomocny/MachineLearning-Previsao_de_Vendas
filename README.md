@@ -1,0 +1,2 @@
+# Projeto_Ciencia_de_Dados--Previsao_de_Vendas
+ Projeto de machine learning para previsão de vendas desenvolvido em Python. Objetivo do programa: A partir de um banco de dados de vendas de uma empresa via 3 canais possíveis de anúncio, a finalidade do programa é de prever as vendas que a empresa terá em um determinado período com base nos gastos em anúncios nas 3 grandes redes de comunicação (rádio, tv e jornal).
